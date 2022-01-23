@@ -14,4 +14,5 @@
 ### 5. 자동 입력커서, 힌트 표시 : autofocus_placeholder.html
 ### 6. 읽기 전용, 필수 입력 필드 : readonly_required.html
 ### [register1.html] input type 속성 중 text, email, password, radio, submit, reset 사용
-### [register2.html] register1.html에 input type 속성 중 autofocus, placeholder, required 추가
+### [register2.html] register1.html에 input 속성 중 autofocus, placeholder, required 추가
+### [register3.html] register2.html에 <select>태그, <textarea>태그 추가
