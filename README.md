@@ -1,6 +1,6 @@
 # Web_Programming
 ## web_documents : 웹문서에 다양한 내용 입력하기
-### * 텍스트 입력하기 : poster_text_result.html 
+### 1. 텍스트 입력하기 : poster_text_result.html 
 ### 2. 목록 만들기 : poster_list_result.html
 ### 3. 표 만들기 : poster_table_result.html
 ### 4. 이미지 삽입하기 : poster_image_result.html
