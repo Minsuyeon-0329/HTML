@@ -1,6 +1,7 @@
 # HTML
-### *HTML_Summary*
-### : HTML 정리본('Do it! 한권으로 끝내는 웹 기본 교과서 HTML+CSS+자바스크립트 웹 표준의 정석' 참고)
+---
+### HTML_Summary : HTML 정리본
+---
 ## web_documents : 웹문서에 다양한 내용 입력하기
 #### 1. 텍스트 입력하기 : poster_text_result.html 
 #### 2. 목록 만들기 : poster_list_result.html
@@ -8,6 +9,7 @@
 #### 4. 이미지 삽입하기 : poster_image_result.html
 #### 5. 오디오, 비디오 삽입하기 : poster_video_audio_result.html
 #### 6. 하이퍼링크 삽입하기 : poster_link_result.html
+---
 ## forms : 입력 양식 작성하기
 #### 1. 숫자 입력 필드 : number.html
 #### 2. 날짜, 시간 입력 : datetime.html
@@ -18,6 +20,7 @@
 #### [register1.html] input type 속성 중 text, email, password, radio, submit, reset 사용
 #### [register2.html] register1.html에 input 속성 중 autofocus, placeholder, required 추가
 #### [register3.html] register2.html에 select태그, textarea태그 추가
+---
 ## practice : 웹 문서 만들어 보기
 #### practice1.html : 위의 모든 내용 포함
 #### practice2.html : 지원서 폼 양식
