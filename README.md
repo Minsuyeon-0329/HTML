@@ -1,4 +1,5 @@
 # HTML
+## HTML_Summary : HTML 정리본('Do it! 한권으로 끝내는 웹 기본 교과서 HTML+CSS+자바스크립트 웹 표준의 정석' 참고)
 ## web_documents : 웹문서에 다양한 내용 입력하기
 #### 1. 텍스트 입력하기 : poster_text_result.html 
 #### 2. 목록 만들기 : poster_list_result.html
