@@ -15,4 +15,7 @@
 ### 6. 읽기 전용, 필수 입력 필드 : readonly_required.html
 ### [register1.html] input type 속성 중 text, email, password, radio, submit, reset 사용
 ### [register2.html] register1.html에 input 속성 중 autofocus, placeholder, required 추가
-### [register3.html] register2.html에 <select>태그, <textarea>태그 추가
+### [register3.html] register2.html에 select태그, textarea태그 추가
+## practice : 웹 문서 만들어 보기
+### practice1.html : 위의 모든 내용 포함
+### practice2.html : 지원서 폼 양식
