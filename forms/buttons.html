@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>버튼</title>
+</head>
+<body>
+    <h2>전송과 리셋 버튼</h2>
+    <input type="submit" value="주문하기">
+    <input type="reset" value="취소하기">
+
+    <h2>이미지 버튼</h2>
+    <fieldset>
+        <label>아이디: <input type="text" id="user_id" size="10"></label>
+        <label>비밀번호: <input type="text" id="user_pw" size="10"></label>
+        <input type="image" src="images/login.png" alt="로그인">
+    </fieldset>
+
+    <h2>기본 버튼으로 자바스크립트 실행</h2>
+    <form>
+        <input type="button" value="공지 창 열기" onclick="window.open('images/notice.jpg')">
+    </form>
+  
+    <h2>파일 첨부 버튼</h2>
+    <fieldset>
+        <legend><b>반품 정보</b></legend>
+        <p>만일 수령한 상품에 문제가 있다면 즉시 <b>반품 신청</b>해 주세요</p>
+        <p>반품 신청 시 상품의 상태를 사진으로 첨부해 주세요</p>
+        <hr>
+        <input type="file">
+    </fieldset>
+</body>
+</html>
