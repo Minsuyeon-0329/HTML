@@ -13,4 +13,5 @@
 ### 4. 히든 필드 : hidden.html
 ### 5. 자동 입력커서, 힌트 표시 : autofocus_placeholder.html
 ### 6. 읽기 전용, 필수 입력 필드 : readonly_required.html
-### register1.html : <img width="218" alt="image" src="https://user-images.githubusercontent.com/63403444/150694960-399e3201-1ffb-4d8d-9ce5-2ccf998d48d6.png">
+### [register1.html] input type 속성 중 text, email, password, radio, submit, reset 사용
+### [register2.html] register1.html에 input type 속성 중 autofocus, placeholder, required 추가
